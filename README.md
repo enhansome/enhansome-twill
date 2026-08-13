@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Twill community.
 
-Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,087 | 🐛 85 | 📅 2024-07-03
+Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,088 | 🐛 85 | 📅 2024-07-03
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Community
 
 * [Discord](https://discord.link/twill)
-* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,967 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
+* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,971 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
 
 ## Tutorials
@@ -75,7 +75,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Open Source Twill Projects
 
-* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 21 | 🌐 PHP | 📅 2026-08-12) - Website of the Art Institute of Chicago
+* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 20 | 🌐 PHP | 📅 2026-08-13) - Website of the Art Institute of Chicago
 * [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif) ⚠️ Archived) - The student newspaper of Imperial College London
 * [Service de Défense Incendie et Secours de Terre-Sainte](https://www.sdis-ts.ch) ([Source Code](https://github.com/markcameron/sdis-terre-sainte) ⭐ 0 | 🐛 0 | 🌐 Blade | 📅 2026-07-28) - Website of the Service de Défense Incendie et Secours de Terre-Sainte (Twill v3)
 * [Timeline of African American Music](https://timeline.carnegiehall.org/) ([Source Code](https://github.com/AssembleStudioOrg/cms.timeline.carnegiehall.org)) - "Timeline of African American Music" project by Carnegie Hall
