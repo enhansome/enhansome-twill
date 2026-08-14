@@ -98,7 +98,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:35:25Z",
+            "last_commit": "2026-08-14T19:04:36Z",
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
             "stars": 32
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:58:26.058Z",
+    "last_updated": "2026-08-14T19:51:22.191Z",
     "original_repository": "area17/awesome-twill",
     "original_repository_sha": "9fe81dd42b13631b3ed16628c58c5326a2191685",
     "enhanced_repository": "enhansome/enhansome-twill",
