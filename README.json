@@ -98,7 +98,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T18:46:20Z",
+            "last_commit": "2026-08-18T19:00:54Z",
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
             "stars": 32
@@ -357,7 +357,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2025-10-25T13:29:30Z",
+            "last_commit": "2026-08-18T15:53:32Z",
             "owner": "C2H6-383",
             "repo": "twill-croppa",
             "stars": 1
@@ -378,7 +378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:35:09.294Z",
+    "last_updated": "2026-08-18T19:34:36.111Z",
     "original_repository": "area17/awesome-twill",
     "original_repository_sha": "9fe81dd42b13631b3ed16628c58c5326a2191685",
     "enhanced_repository": "enhansome/enhansome-twill",
