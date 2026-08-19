@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Twill community.
 
-Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,093 | 🐛 85 | 📅 2024-07-03
+Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,094 | 🐛 86 | 📅 2024-07-03
 
 ## Table of Contents
 
