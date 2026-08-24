@@ -128,7 +128,7 @@
             "archived": false,
             "id": 488721447,
             "language": "PHP",
-            "last_commit": "2026-08-21T16:23:16Z",
+            "last_commit": "2026-08-24T16:04:18Z",
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
             "stars": 32
@@ -435,7 +435,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:26.147Z",
+    "last_updated": "2026-08-24T19:37:26.197Z",
     "original_repository": "area17/awesome-twill",
     "original_repository_id": 384939512,
     "original_repository_sha": "9fe81dd42b13631b3ed16628c58c5326a2191685",
