@@ -22,7 +22,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Community
 
 * [Discord](https://discord.link/twill)
-* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,975 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
+* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,976 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
 
 ## Tutorials
@@ -112,7 +112,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### Image Processing
 
 * [Twill Image](https://github.com/area17/twill-image) ⭐ 32 | 🐛 5 | 🌐 PHP | 📅 2025-04-09 - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
-* [Twill Croppa](https://github.com/c2h6-383/twill-croppa) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 - Use the advantages of [Croppa](https://github.com/BKWLD/croppa) ⭐ 507 | 🐛 23 | 🌐 PHP | 📅 2026-07-15 in your Twill application, provided by a custom image rendering service
+* [Twill Croppa](https://github.com/c2h6-383/twill-croppa) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 - Use the advantages of [Croppa](https://github.com/BKWLD/croppa) ⭐ 509 | 🐛 23 | 🌐 PHP | 📅 2026-07-15 in your Twill application, provided by a custom image rendering service
 
 #### Metadata & SEO
 
@@ -141,4 +141,4 @@ Awesome Twill is licensed under a  [Creative Commons Attribution 4.0 Internation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

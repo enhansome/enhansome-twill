@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Made with Twill Video Tutorials",
+              "description": "(Source Code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275192307,
+                "language": "PHP",
+                "last_commit": "2023-04-19T21:17:24Z",
+                "owner": "area17",
+                "repo": "made-with-twill-tutorials",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Videos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind",
               "description": "(Source Code)",
               "children": [],
@@ -385,13 +407,35 @@
           "description": null,
           "node_type": "group",
           "title": "Image Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Twill Metadata",
+              "description": "A simple way to add editable SEO metadata to your Twill models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264208424,
+                "language": "PHP",
+                "last_commit": "2024-09-13T09:25:54Z",
+                "owner": "cwsdigital",
+                "repo": "twill-metadata",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metadata & SEO"
         }
       ],
       "title": "Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:29:08.663Z",
+    "last_updated": "2026-08-24T14:42:26.147Z",
     "original_repository": "area17/awesome-twill",
     "original_repository_id": 384939512,
     "original_repository_sha": "9fe81dd42b13631b3ed16628c58c5326a2191685",
