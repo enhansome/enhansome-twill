@@ -18,7 +18,8 @@
                 "owner": "area17",
                 "repo": "made-with-twill-tutorials",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "Codivores",
                 "repo": "tutorial-laravel-twill-inertia-vue3-vite-tailwind",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "sauron",
                 "repo": "my-twill-blog",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -81,7 +84,8 @@
             "owner": "cwsdigital",
             "repo": "cws-twill-base",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         },
         {
           "node_type": "item",
@@ -96,7 +100,8 @@
             "owner": "Webisolv",
             "repo": "base-twill-project",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         },
         {
           "node_type": "item",
@@ -111,7 +116,8 @@
             "owner": "croustille-io",
             "repo": "twill-boilerplate",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         }
       ],
       "title": "Starter Projects"
@@ -128,11 +134,12 @@
             "archived": false,
             "id": 488721447,
             "language": "PHP",
-            "last_commit": "2026-08-27T20:39:54Z",
+            "last_commit": "2026-08-28T17:03:49Z",
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         },
         {
           "node_type": "item",
@@ -147,7 +154,8 @@
             "owner": "FelixOnline",
             "repo": "xelif",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         },
         {
           "node_type": "item",
@@ -162,7 +170,8 @@
             "owner": "markcameron",
             "repo": "sdis-terre-sainte",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:05:08.513Z"
         }
       ],
       "title": "Open Source Twill Projects"
@@ -185,7 +194,8 @@
                 "owner": "area17",
                 "repo": "twill-feature-flags",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -200,7 +210,8 @@
                 "owner": "Sevendays-Digital",
                 "repo": "twill-redirects",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -215,7 +226,8 @@
                 "owner": "area17",
                 "repo": "twill-capsule-homepages",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -230,7 +242,8 @@
                 "owner": "area17",
                 "repo": "twill-capsule-base",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -245,7 +258,8 @@
                 "owner": "area17",
                 "repo": "twill-capsule-cities",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -260,7 +274,8 @@
                 "owner": "area17",
                 "repo": "twill-capsule-countries",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -275,7 +290,8 @@
                 "owner": "area17",
                 "repo": "twill-capsule-redirections",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -297,7 +313,8 @@
                 "owner": "area17",
                 "repo": "twill-api",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -312,7 +329,8 @@
                 "owner": "area17",
                 "repo": "twill-transformers",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -327,7 +345,8 @@
                 "owner": "kallefrombosnia",
                 "repo": "twill-graphql",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -349,7 +368,8 @@
                 "owner": "pboivin",
                 "repo": "twill-form-templates",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -364,7 +384,8 @@
                 "owner": "sauron",
                 "repo": "twill-form-partials",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -386,7 +407,8 @@
                 "owner": "area17",
                 "repo": "twill-image",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             },
             {
               "node_type": "item",
@@ -401,7 +423,8 @@
                 "owner": "C2H6-383",
                 "repo": "twill-croppa",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -423,7 +446,8 @@
                 "owner": "cwsdigital",
                 "repo": "twill-metadata",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T02:05:08.513Z"
             }
           ],
           "description": null,
@@ -435,7 +459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:32:38.685Z",
+    "last_updated": "2026-08-29T02:05:08.513Z",
     "original_repository_info": {
       "archived": false,
       "id": 384939512,
