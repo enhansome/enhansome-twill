@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for Made with Twill tutorials on https://twill.io/tutorials",
+                "homepage": null,
                 "id": 275192307,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-04-19T21:17:24Z",
+                "open_issues": 5,
                 "owner": "area17",
                 "repo": "made-with-twill-tutorials",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cms",
+                  "laravel",
+                  "tutorial",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -35,12 +45,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 385945103,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2024-05-22T16:25:41Z",
+                "open_issues": 0,
                 "owner": "Codivores",
                 "repo": "tutorial-laravel-twill-inertia-vue3-vite-tailwind",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -51,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twill app built from the Ground up. With a Step by Step instructions on Spectrum",
+                "homepage": null,
                 "id": 176123378,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2019-04-01T14:44:56Z",
+                "open_issues": 0,
                 "owner": "sauron",
                 "repo": "my-twill-blog",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -78,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CWS base repository for Twil CMS projects",
+            "homepage": null,
             "id": 367401028,
             "language": "PHP",
+            "license": null,
             "last_commit": "2022-02-02T11:49:17Z",
+            "open_issues": 0,
             "owner": "cwsdigital",
             "repo": "cws-twill-base",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         },
@@ -94,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 428657642,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-03T09:22:33Z",
+            "open_issues": 0,
             "owner": "Webisolv",
             "repo": "base-twill-project",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         },
@@ -110,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 264970825,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-02-01T22:51:40Z",
+            "open_issues": 5,
             "owner": "croustille-io",
             "repo": "twill-boilerplate",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         }
@@ -132,12 +167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Website of the Art Institute of Chicago, an art museum",
+            "homepage": null,
             "id": 488721447,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T17:03:49Z",
+            "open_issues": 21,
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         },
@@ -148,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Custom-built website platform for the Felix website based on Twill CMS",
+            "homepage": "https://felixonline.co.uk",
             "id": 302515637,
             "language": "PHP",
+            "license": null,
             "last_commit": "2024-11-12T22:47:28Z",
+            "open_issues": 15,
             "owner": "FelixOnline",
             "repo": "xelif",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         },
@@ -164,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Le site du SDIS Terre Sainte",
+            "homepage": null,
             "id": 659908375,
             "language": "Blade",
+            "license": "MIT",
             "last_commit": "2026-07-28T09:46:25Z",
+            "open_issues": 0,
             "owner": "markcameron",
             "repo": "sdis-terre-sainte",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
         }
@@ -188,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 475880756,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-10T07:55:11Z",
+                "open_issues": 0,
                 "owner": "area17",
                 "repo": "twill-feature-flags",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -204,12 +259,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage redirects in Twill",
+                "homepage": null,
                 "id": 470960310,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-12-07T12:26:42Z",
+                "open_issues": 2,
                 "owner": "Sevendays-Digital",
                 "repo": "twill-redirects",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "twill",
+                  "twill-package"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -220,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Twill Capsule to create a Home page for your website",
+                "homepage": null,
                 "id": 367680519,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-11-29T16:42:29Z",
+                "open_issues": 2,
                 "owner": "area17",
                 "repo": "twill-capsule-homepages",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -236,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A series of opinionated base classes and helpers for faster application bootstrapping",
+                "homepage": null,
                 "id": 367679776,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-09-04T10:40:30Z",
+                "open_issues": 0,
                 "owner": "area17",
                 "repo": "twill-capsule-base",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -252,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Twill Capsule to manage Cities",
+                "homepage": null,
                 "id": 370507449,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-09-04T10:41:17Z",
+                "open_issues": 0,
                 "owner": "area17",
                 "repo": "twill-capsule-cities",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -268,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Twill Capsule to manage Countries",
+                "homepage": null,
                 "id": 370494407,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2021-09-04T10:41:30Z",
+                "open_issues": 0,
                 "owner": "area17",
                 "repo": "twill-capsule-countries",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -284,12 +367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Twill Capsule to manage and handle application redirections",
+                "homepage": null,
                 "id": 486609361,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-04-28T13:54:26Z",
+                "open_issues": 1,
                 "owner": "area17",
                 "repo": "twill-capsule-redirections",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -307,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide a read-only API to Twill models and entities along with base structure to create your own JSON:API compliant REST API.",
+                "homepage": null,
                 "id": 397343749,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-10T18:17:27Z",
+                "open_issues": 3,
                 "owner": "area17",
                 "repo": "twill-api",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -323,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transformers for Twill Apps",
+                "homepage": null,
                 "id": 260550208,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-04-19T08:49:06Z",
+                "open_issues": 1,
                 "owner": "area17",
                 "repo": "twill-transformers",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -339,12 +437,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "twill-graphql provides GraphQL wrapper for Twill CMS",
+                "homepage": null,
                 "id": 456020551,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-04-24T12:59:19Z",
+                "open_issues": 3,
                 "owner": "kallefrombosnia",
                 "repo": "twill-graphql",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "api",
+                  "graphql",
+                  "laravel",
+                  "php",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -362,12 +471,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A template field for Twill Modules",
+                "homepage": null,
                 "id": 412899787,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-04-19T11:48:46Z",
+                "open_issues": 0,
                 "owner": "pboivin",
                 "repo": "twill-form-templates",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "laravel",
+                  "php",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -378,12 +496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of FormFields for Twill CMS in order to standardise it and speed up the Development time",
+                "homepage": null,
                 "id": 415064941,
                 "language": "Blade",
+                "license": "MIT",
                 "last_commit": "2021-10-08T19:30:48Z",
+                "open_issues": 1,
                 "owner": "sauron",
                 "repo": "twill-form-partials",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -401,12 +524,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twill Image is a package designed to work with Twill. It leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images.",
+                "homepage": null,
                 "id": 251567976,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-09T10:53:11Z",
+                "open_issues": 5,
                 "owner": "area17",
                 "repo": "twill-image",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "art-direction",
+                  "image",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             },
@@ -417,12 +549,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Croppa as media rendering service in Twill applications",
+                "homepage": null,
                 "id": 775932632,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-18T15:53:32Z",
+                "open_issues": 0,
                 "owner": "C2H6-383",
                 "repo": "twill-croppa",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "croppa",
+                  "laravel-framework",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -440,12 +581,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SEO Metadata Package for Twill CMS",
+                "homepage": null,
                 "id": 264208424,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-09-13T09:25:54Z",
+                "open_issues": 3,
                 "owner": "cwsdigital",
                 "repo": "twill-metadata",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "laravel",
+                  "twill"
+                ]
               },
               "first_seen": "2026-08-29T02:05:08.513Z"
             }
@@ -459,15 +608,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:05:08.513Z",
+    "last_updated": "2026-08-29T05:00:52.032Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Twill community",
+      "homepage": null,
       "id": 384939512,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-27T22:03:30Z",
+      "open_issues": 0,
       "owner": "area17",
       "repo": "awesome-twill",
-      "stars": 77
+      "stars": 77,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cms",
+        "laravel",
+        "php",
+        "twill"
+      ]
     },
     "original_repository_sha": "9fe81dd42b13631b3ed16628c58c5326a2191685",
     "enhanced_repository": "enhansome/enhansome-twill",
