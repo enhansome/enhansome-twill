@@ -107,7 +107,7 @@
             "open_issues": 0,
             "owner": "cwsdigital",
             "repo": "cws-twill-base",
-            "stars": 13,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T02:05:08.513Z"
@@ -172,8 +172,8 @@
             "id": 488721447,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T20:13:33Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-04T19:56:48Z",
+            "open_issues": 10,
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
             "stars": 32,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:39:44.794Z",
+    "last_updated": "2026-09-04T21:22:16.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Twill community",

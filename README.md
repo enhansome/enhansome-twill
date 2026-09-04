@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Twill community.
 
-Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,096 | 🐛 88 | 📅 2024-07-03
+Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,097 | 🐛 88 | 📅 2024-07-03
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Community
 
 * [Discord](https://discord.link/twill)
-* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,974 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
+* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,974 | 🐛 136 | 🌐 PHP | 📅 2026-07-31
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
 
 ## Tutorials
@@ -69,13 +69,13 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Starter Projects
 
-* [cwsdigital/cws-twill-base](https://github.com/cwsdigital/cws-twill-base) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2022-02-02
+* [cwsdigital/cws-twill-base](https://github.com/cwsdigital/cws-twill-base) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2022-02-02
 * [Webisolv/base-twill-project](https://github.com/Webisolv/base-twill-project) ⭐ 8 | 🐛 0 | 🌐 CSS | 📅 2022-02-03
 * [croustille-io/twill-boilerplate](https://github.com/croustille-io/twill-boilerplate) ⭐ 6 | 🐛 5 | 🌐 PHP | 📅 2023-02-01
 
 ## Open Source Twill Projects
 
-* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 6 | 🌐 PHP | 📅 2026-09-03) - Website of the Art Institute of Chicago
+* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 10 | 🌐 PHP | 📅 2026-09-04) - Website of the Art Institute of Chicago
 * [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif) ⚠️ Archived) - The student newspaper of Imperial College London
 * [Service de Défense Incendie et Secours de Terre-Sainte](https://www.sdis-ts.ch) ([Source Code](https://github.com/markcameron/sdis-terre-sainte) ⭐ 0 | 🐛 0 | 🌐 Blade | 📅 2026-07-28) - Website of the Service de Défense Incendie et Secours de Terre-Sainte (Twill v3)
 * [Timeline of African American Music](https://timeline.carnegiehall.org/) ([Source Code](https://github.com/AssembleStudioOrg/cms.timeline.carnegiehall.org)) - "Timeline of African American Music" project by Carnegie Hall
@@ -141,4 +141,4 @@ Awesome Twill is licensed under a  [Creative Commons Attribution 4.0 Internation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
