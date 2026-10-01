@@ -172,7 +172,7 @@
             "id": 488721447,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T22:32:21Z",
+            "last_commit": "2026-10-01T20:34:30Z",
             "open_issues": 9,
             "owner": "art-institute-of-chicago",
             "repo": "artic.edu",
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:56:47.151Z",
+    "last_updated": "2026-10-01T23:04:57.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Twill community",
