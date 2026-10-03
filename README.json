@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Made with Twill Video Tutorials",
-              "description": "(Source Code)",
+              "description": "area17/made-with-twill-tutorials",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -41,7 +41,7 @@
             {
               "node_type": "item",
               "title": "Build a CMS Stack with Laravel, Twill, Inertia, Vue 3, Vite, Tailwind",
-              "description": "(Source Code)",
+              "description": "Codivores/tutorial-laravel-twill-inertia-vue3-vite-tailwind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -62,7 +62,7 @@
             {
               "node_type": "item",
               "title": "Step by step - Creating a Twill app",
-              "description": "(Source Code)",
+              "description": "sauron/my-twill-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -94,7 +94,7 @@
         {
           "node_type": "item",
           "title": "cwsdigital/cws-twill-base",
-          "description": null,
+          "description": "cwsdigital/cws-twill-base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Webisolv/base-twill-project",
-          "description": null,
+          "description": "Webisolv/base-twill-project",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,7 +136,7 @@
         {
           "node_type": "item",
           "title": "croustille-io/twill-boilerplate",
-          "description": null,
+          "description": "croustille-io/twill-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:55:44.419Z",
+    "last_updated": "2026-10-03T05:10:25.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Twill community",
