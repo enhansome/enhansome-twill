@@ -22,7 +22,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Community
 
 * [Discord](https://discord.link/twill)
-* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,977 | 🐛 135 | 🌐 PHP | 📅 2026-09-09
+* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,976 | 🐛 135 | 🌐 PHP | 📅 2026-09-09
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
 
 ## Tutorials
