@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Twill community.
 
-Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,135 | 🐛 99 | 📅 2024-07-03
+Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,136 | 🐛 99 | 📅 2024-07-03
 
 ## Table of Contents
 
@@ -75,7 +75,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 
 ## Open Source Twill Projects
 
-* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 8 | 🌐 PHP | 📅 2026-11-06) - Website of the Art Institute of Chicago
+* [Art Institute of Chicago](https://www.artic.edu/) ([Source Code](https://github.com/art-institute-of-chicago/artic.edu) ⭐ 32 | 🐛 8 | 🌐 PHP | 📅 2026-11-09) - Website of the Art Institute of Chicago
 * [Felix Online](https://felixonline.co.uk/) ([Source Code](https://github.com/FelixOnline/xelif) ⚠️ Archived) - The student newspaper of Imperial College London
 * [Service de Défense Incendie et Secours de Terre-Sainte](https://www.sdis-ts.ch) ([Source Code](https://github.com/markcameron/sdis-terre-sainte) ⭐ 0 | 🐛 0 | 🌐 Blade | 📅 2026-07-28) - Website of the Service de Défense Incendie et Secours de Terre-Sainte (Twill v3)
 * [Timeline of African American Music](https://timeline.carnegiehall.org/) ([Source Code](https://github.com/AssembleStudioOrg/cms.timeline.carnegiehall.org)) - "Timeline of African American Music" project by Carnegie Hall
@@ -112,7 +112,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 #### Image Processing
 
 * [Twill Image](https://github.com/area17/twill-image) ⭐ 32 | 🐛 5 | 🌐 PHP | 📅 2025-04-09 - Leverages Twill image processing with modern lazy-loading techniques and art-directed responsive images
-* [Twill Croppa](https://github.com/c2h6-383/twill-croppa) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 - Use the advantages of [Croppa](https://github.com/BKWLD/croppa) ⭐ 509 | 🐛 23 | 🌐 PHP | 📅 2026-07-15 in your Twill application, provided by a custom image rendering service
+* [Twill Croppa](https://github.com/c2h6-383/twill-croppa) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-18 - Use the advantages of [Croppa](https://github.com/BKWLD/croppa) ⭐ 510 | 🐛 23 | 🌐 PHP | 📅 2026-07-15 in your Twill application, provided by a custom image rendering service
 
 #### Metadata & SEO
 
@@ -141,4 +141,4 @@ Awesome Twill is licensed under a  [Creative Commons Attribution 4.0 Internation
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
