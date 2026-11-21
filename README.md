@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Twill community.
 
-Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,146 | 🐛 102 | 📅 2024-07-03
+Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,145 | 🐛 102 | 📅 2024-07-03
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Inspired by and based on [chiraggude/awesome-laravel](https://github.com/chiragg
 ## Community
 
 * [Discord](https://discord.link/twill)
-* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,971 | 🐛 136 | 🌐 PHP | 📅 2026-09-09
+* [GitHub Discussions](https://github.com/area17/twill/discussions) ⭐ 3,970 | 🐛 136 | 🌐 PHP | 📅 2026-09-09
 * [Spectrum](https://spectrum.chat/twill) - *No longer actively monitored, in favor of GitHub Discussions and Discord*
 
 ## Tutorials
